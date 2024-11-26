@@ -13,7 +13,7 @@ rdflib==4.2.2
 requests==2.25.1
 selenium==2.52.0
 six==1.9.0
-sqlparse==0.2.4
+sqlparse==0.4.4
 TPool==1.2
 urllib3==1.26.5
 stiqueue==1.1.0
